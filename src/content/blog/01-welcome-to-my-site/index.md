@@ -1,6 +1,6 @@
 ---
-title: "Ethan Dong: welcome to my site"
-summary: "welcome to my site"
+title: "🚀Astro+GitHub+CloudFire博客建站教程"
+summary: "通过 GitHub 的 Codespaces 实现实时开发预览，并使用 Cloudflare Pages 进行一键部署。"
 date: "OCT 18 2024"
 draft: false
 tags:
