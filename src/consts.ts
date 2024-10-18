@@ -3,14 +3,14 @@ import type { Site, Page, Links, Socials } from "@types"
 // Global
 export const SITE: Site = {
   TITLE: "Ethan's Site",
-  DESCRIPTION: "Welcome to Ethan's Site. a portfolio and blog for designers and developers.",
+  DESCRIPTION: "Welcome to Ethan's Site. a portfolio and blog forcoder and developers.",
   AUTHOR: "Ethan Dong",
 }
 
 // Work Page
-export const WORK: Page = {
-  TITLE: "Work",
-  DESCRIPTION: "Places I have worked.",
+export const ABOUT: Page = {
+  TITLE: "About",
+  DESCRIPTION: "About me and my journey as a developer.",
 }
 
 // Blog Page
@@ -65,17 +65,5 @@ export const SOCIALS: Socials = [
     TEXT: "dongxuecheng",
     HREF: "https://github.com/dongxuecheng"
   },
-  // { 
-  //   NAME: "LinkedIn",
-  //   ICON: "linkedin",
-  //   TEXT: "markhorn-dev",
-  //   HREF: "https://www.linkedin.com/in/markhorn-dev/",
-  // },
-  // { 
-  //   NAME: "Twitter",
-  //   ICON: "twitter-x",
-  //   TEXT: "markhorn_dev",
-  //   HREF: "https://twitter.com/markhorn_dev",
-  // },
 ]
 
